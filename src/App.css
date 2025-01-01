@@ -1,0 +1,19 @@
+.formContainer {
+    margin: 20px auto;
+    width: 500px;
+}
+.btn {
+    margin: 10px auto;
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.margin {
+    margin: 10px;
+}
